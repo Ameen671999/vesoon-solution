@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "three": "/node_modules/three/src/Three.js"
+  }
+}
